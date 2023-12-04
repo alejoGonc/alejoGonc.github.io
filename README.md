@@ -4,7 +4,7 @@
 Data Science, UBA
 
 ### Work Experience
-- Jr Analyst @ IPG Mediabrands (03/23 - current) 
+- Jr Analyst @ IPG Mediabrands (03/23 - present) 
 - Data Analyst @ FEED (07/22 - 03/23)
 
 ### Freelance Experience
