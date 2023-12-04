@@ -1,5 +1,5 @@
 title: Alejo Goncalves
 #logo: path de tu foto
 #description: para agregar texto abajo de la foto
-show_downloads = True
+show_downloads: True
 theme: jekyll-theme-minimal
